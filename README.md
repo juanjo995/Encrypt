@@ -23,7 +23,7 @@ Write the content you want to encrypt and click on **Encrypt**.
 
 To decrypt a file just click on the button with three dots (...) and select the file to decrypt.
 
-Introduce the password and click on **decrypt**.
+Introduce the password and click on **Decrypt**.
 
 ## Run it
 
