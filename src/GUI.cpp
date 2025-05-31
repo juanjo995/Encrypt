@@ -5,7 +5,7 @@ void GUI::init() {
 }
 
 void GUI::draw() {
-    ImGui::Begin("AES");
+    ImGui::Begin("Encrypt");
     ImGui::Text("Path:");
     ImGui::SameLine();
     ImGui::InputText("##path", &path);
