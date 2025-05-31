@@ -28,7 +28,7 @@ int main() {
     }
 
     // Create a windowed mode window and its OpenGL context
-    GLFWwindow* window = glfwCreateWindow(640, 640, "AES", nullptr, nullptr);
+    GLFWwindow* window = glfwCreateWindow(640, 640, "Encrypt", nullptr, nullptr);
     if (!window) {
         std::cout << "Failed to create GLFW window" << std::endl;
         glfwTerminate();
